@@ -1,27 +1,23 @@
 # finalpro
-this is my final frt project.I have created a food website which will provide healthy and low cost food which can
+this is my final project.I have created a food website which will provide healthy and low cost food which can
 be availed by anyone
-#Website link https://orange-cliff-006658510.2.azurestaticapps.net
+#Website link https://lively-sand-08a568910.2.azurestaticapps.net
 
 Home
 
-
-![image](https://user-images.githubusercontent.com/118900668/204804519-22f684a7-b5bb-43e3-958a-729fb8b9d53f.png)
-![image](https://user-images.githubusercontent.com/118900668/204804577-c4b75b6a-f878-459d-9680-a9f0ae57ee9b.png)
-![image](https://user-images.githubusercontent.com/118900668/204804630-bbe8b897-20f4-44f6-a312-94a6179275cb.png)
+![image](https://user-images.githubusercontent.com/118900668/204960557-d5ef5b26-d001-406f-944f-2c167e112385.png)
+![image](https://user-images.githubusercontent.com/118900668/204960606-848ec29a-e0b2-46b2-87c7-85e882249c44.png)
+![image](https://user-images.githubusercontent.com/118900668/204960628-bcce8017-0ff5-4f64-802a-a9aa3eaffc46.png)
 
 
 About
 
-![image](https://user-images.githubusercontent.com/118900668/204804711-d6561a58-8a2a-46f4-a8d7-3dda5026a1ae.png)
-![image](https://user-images.githubusercontent.com/118900668/204804753-fafebe81-2b8d-474f-b410-7c29f0288c6e.png)
-![image](https://user-images.githubusercontent.com/118900668/204804804-285f42e2-4d4e-461f-960e-d243d0e9be11.png)
+![image](https://user-images.githubusercontent.com/118900668/204960691-c82410ad-f57c-4db3-85d3-1f2aafe07c8f.png)
+![image](https://user-images.githubusercontent.com/118900668/204960712-7a494e11-4f23-4e77-8fe0-4b76591e9a55.png)
+![image](https://user-images.githubusercontent.com/118900668/204960727-fd2a5dc5-cc15-4c61-bfc7-c3d0de9a46dc.png)
 
 
 Contact
 
-
-![image](https://user-images.githubusercontent.com/118900668/204804890-1e6ad556-409b-413c-8a9c-f1cc52dd0be3.png)
-![image](https://user-images.githubusercontent.com/118900668/204804919-b432f83d-37e3-4eb6-a812-909f8486cd5c.png)
-
-
+![image](https://user-images.githubusercontent.com/118900668/204960820-16e08bc9-020f-4d11-8dee-14401aa79d54.png)
+![image](https://user-images.githubusercontent.com/118900668/204960846-a66a1f2f-7895-4400-800e-f259cf6beb9f.png)
